@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+This is my first basic app using FLutter.It is a Dice-Roller App.
 
 ## Getting Started
 
